@@ -39,11 +39,12 @@ header {height: 700px;}
 main {width: 100%; height: auto;}
 article {position: relative; left: 50%; transform: translateX(-50%);}
 
-.how {height: 430px;}
+.how {height: 450px;}
 .class {padding-top: 40px;}
 .class>img {width: 640px; max-width: 100%; margin: 20px 0;}
 .class>h3 {padding-bottom: 10px;}
-.class>h5 {padding-bottom: 20px;}
+.class>h5 {padding-bottom: 4px;}
+.class>h6 {color: var(--main); padding-bottom: 20px;}
 
 .who {min-height: 500px; background-image: url(/img/bg_iceberg.jpg); background-repeat: no-repeat; background-size: cover;}
 .who>h2 {padding: 40px 0 20px 0;}
