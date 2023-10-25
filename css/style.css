@@ -39,7 +39,7 @@ header {height: 700px;}
 main {width: 100%; height: auto;}
 article {position: relative; left: 50%; transform: translateX(-50%);}
 
-.how {height: 440px;}
+.how {height: 430px;}
 .class {padding-top: 40px;}
 .class>img {width: 640px; max-width: 100%; margin: 20px 0;}
 .class>h3 {padding-bottom: 10px;}
@@ -51,7 +51,7 @@ section {display: flex; justify-content: center; flex-wrap: wrap;}
 .coach {min-width: 300px; height: 350px; background: var(--white); border-radius: 10px; margin: 10px 20px 20px 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);}
 .coach>h3 {padding: 20px 0;}
 
-.where {height: 550px; background-color: var(--gray-light);}
+.where {height: 560px; background-color: var(--gray-light);}
 .where>h2 {padding: 40px 0 20px 0;}
 .map>iframe {max-width: 640px;}
 .where>h5 {padding: 20px 0 10px 0;}
